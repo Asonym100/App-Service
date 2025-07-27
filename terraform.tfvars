@@ -1,0 +1,5 @@
+resource_group_name     = "rg-demo-container-webapp"
+app_service_plan_name   = "asp-demo-container"
+web_app_name            = "demo-webapp-container-001"
+container_image         = "mcr.microsoft.com/azuredocs/aci-helloworld"
+location                = "UK South"
